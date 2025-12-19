@@ -1,2 +1,2 @@
 # love-card-2
-good
+goog
